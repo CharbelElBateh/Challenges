@@ -1,6 +1,6 @@
 Challenges ⚔
 ===============
-This repo is about some challenges given in COE211 class taught by the amazing instructor [Dr. Wissam Fawaz](https://github.com/wissamfawaz/)
+This repo is about some challenges I stubled upon.
 
 ## Overview ⚖
 
